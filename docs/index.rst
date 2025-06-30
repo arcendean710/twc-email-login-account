@@ -3,7 +3,7 @@ How to Login TWC Email Account
 
 TWC email, also known as *Roadrunner email* or *Time Warner Cable email*, continues to serve thousands of users even after Time Warner Cable was acquired by Charter Communications and rebranded as Spectrum. While the service name has changed, legacy email addresses under domains like ``@twc.com``, ``@roadrunner.com``, and ``@rr.com`` are still active. However, many users are still unsure how to log in to their TWC email account due to this transition and rebranding.
 
-.. image:: start.png
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
